@@ -9,6 +9,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0033-search-in-rotated-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/akash7267/90-days-DSA-Challange/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0033-search-in-rotated-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/akash7267/90-days-DSA-Challange/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
