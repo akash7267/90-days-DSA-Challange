@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0217-contains-duplicate) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
