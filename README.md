@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0033-search-in-rotated-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/akash7267/90-days-DSA-Challange/tree/master/1539-kth-missing-positive-number) |
 | [0217-contains-duplicate](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0217-contains-duplicate) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0033-search-in-rotated-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/akash7267/90-days-DSA-Challange/tree/master/1539-kth-missing-positive-number) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash7267/90-days-DSA-Challange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Math
 |  |
 | ------- |
