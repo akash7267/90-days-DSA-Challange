@@ -33,10 +33,6 @@ public:
              else  
              end=mid-1;
           }
-           vector<int>a(2);
-           a[0]=first;
-           a[1]=last;
-           return a;
-
+            return {first , last};
     }
 };
